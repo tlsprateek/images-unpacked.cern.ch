@@ -46,3 +46,4 @@ input:
     - 'https://ghcr.io/dluitz/bonn-comp-phys-c--dev:main'
     - 'https://Simulation1:v1.0.0'
     - 'https://Simulation1:v1.2.0'
+    - 'https://Simulation1:v1.3.0'
