@@ -44,3 +44,4 @@ input:
     - 'https://registry.hub.docker.com/mzrdocker/openmpi_alpine:latest'
     - 'https://ghcr.io/watonomous/actions-runner-image:*'
     - 'https://ghcr.io/dluitz/bonn-comp-phys-c--dev:main'
+    - 'https://sim1:v0.0.1'
