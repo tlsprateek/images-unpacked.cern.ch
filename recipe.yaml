@@ -45,3 +45,4 @@ input:
     - 'https://ghcr.io/watonomous/actions-runner-image:*'
     - 'https://ghcr.io/dluitz/bonn-comp-phys-c--dev:main'
     - 'https://sim1:v0.0.1'
+    - 'https://sim2:v0.0.1'
