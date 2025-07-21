@@ -45,3 +45,4 @@ input:
     - 'https://ghcr.io/watonomous/actions-runner-image:*'
     - 'https://ghcr.io/dluitz/bonn-comp-phys-c--dev:main'
     - 'https://Simulation1:v1.0.0'
+    - 'https://registry.gitlab.com/prateek5694532/test_cicd_includev2:check2'
