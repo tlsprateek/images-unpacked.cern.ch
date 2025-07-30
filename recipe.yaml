@@ -50,3 +50,4 @@ input:
     - 'https://simulation:latest'
     - 'https://simulation:late1'
     - 'https://simulation:late2'
+    - 'https://simulation:late3'
