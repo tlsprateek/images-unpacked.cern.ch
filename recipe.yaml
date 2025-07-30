@@ -47,3 +47,4 @@ input:
     - 'https://Simulation1:v1.0.0'
     - 'https://registry.gitlab.com/prateek5694532/test_cicd_includev2:v0.1.0'
     - 'https://registry.gitlab.com/prateek5694532/test_cicd_includev2:v0.0.1'
+    - 'https://simulation:latest'
