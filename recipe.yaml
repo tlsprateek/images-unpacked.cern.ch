@@ -52,3 +52,4 @@ input:
     - 'https://simulation:late2'
     - 'https://linc:late1'
     - 'https://linc:late2'
+    - 'just for testing something'
