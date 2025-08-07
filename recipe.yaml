@@ -25,4 +25,5 @@ input:
     - 'https://QCD:l2'
     - 'https://simulation:l1'
     - 'https://simulation:l2'
-    - 'https://simulation:l3'    - 'https://simulation:l4'
+    - 'https://simulation:l3'
+    - 'https://simulation:l4'
