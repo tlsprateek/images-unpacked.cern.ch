@@ -22,3 +22,6 @@ input:
     - 'https://linc:late1'
     - 'https://linc:late2'
     - 'https://QCD:l1'
+    - 'https://simulation:l1'
+    - 'https://simulation:l2'
+    - 'https://simulation:l3'
