@@ -27,3 +27,4 @@ input:
     - 'https://simulation:l2'
     - 'https://simulation:l3'
     - 'https://simulation:l4'
+    - 'https://registry.gitlab.com/prateek5694532/testcicd_includev3:v0.0.1'
